@@ -1,4 +1,5 @@
 #' Always predict no ciTBI
+#' 
 #' @param data A data frame with one row per patient
 #' @return A factor vector of predictions ("no_ciTBI")
 #' @export
